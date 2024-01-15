@@ -154,7 +154,7 @@
         "ParamFieldName": "worldpath",
         "InputType": "text",
         "IncludeInCommandLine": false,
-        "hidden": true
+        "Hidden": true
     },
     {
         "DisplayName": "World Name",
