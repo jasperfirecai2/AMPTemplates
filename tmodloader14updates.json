@@ -3,7 +3,7 @@
         "UpdateStageName": "Config Template Download",
         "UpdateSourcePlatform": "All",
         "UpdateSource": "FetchURL",
-        "UpdateSourceData": "https://github.com/CubeCoders/AMPTemplates/raw/main/tmodloader14serverconfig.txt",
+        "UpdateSourceData": "https://github.com/jasperfirecai2/AMPTemplates/raw/test2/tmodloader14serverconfig.txt",
         "UpdateSourceTarget": "serverfiles",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false
